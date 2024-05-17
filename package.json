@@ -1,0 +1,12 @@
+{
+  "name": "missao-aprendizado-hello-word-com-expressjs-",
+  "version": "1.0.0",
+  "description": "Projeto de Missao de Aprendizado de nivel iniciante: Hello Word com Expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
